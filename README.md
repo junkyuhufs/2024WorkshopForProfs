@@ -2,6 +2,8 @@
 **📅 날짜**: 2024-12-20  
 **👨‍🏫 발표자**: 이준규 (한국외국어대학교 교육대학원)
 
+![QR code](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/napkin-selection_1.png)
+
 ---
 
 ## 📝 Overview of Today’s Workshop
