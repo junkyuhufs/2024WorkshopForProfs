@@ -2,7 +2,7 @@
 
 # Multimodal Examples 🚀
 
-이 문서는 멀티모달(Multimodal) 기술에 대한 설명과 다양한 예시를 제공합니다. 멀티모달은 여러 입력 및 출력 모달리티(Text, Speech, Image 등)를 활용하여 데이터를 처리하는 기술입니다.
+멀티모달은 여러 입력 및 출력 모달리티(Text, Speech, Image 등)를 활용하여 데이터를 처리하는 기술입니다.
 
 ---
 
