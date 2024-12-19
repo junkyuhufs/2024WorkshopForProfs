@@ -14,7 +14,7 @@
 ## 🎨 Multimodality
 
 
-# Multimodal Examples 🚀
+## Multimodal Examples 🚀
 
 멀티모달은 여러 입력 및 출력 모달리티(Text, Speech, Image 등)를 활용하여 데이터를 처리하는 기술입니다.
 
