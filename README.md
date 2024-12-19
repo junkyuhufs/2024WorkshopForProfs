@@ -12,7 +12,7 @@
   - 문장 완성: "AI is..." → "AI is transforming industries worldwide."
   - 언어 번역: 영어 문장을 한국어로 번역.
   - 문체 변환: 캐주얼 문장을 학문적인 문장으로 변환.
-- **도구**: ChatGPT, Google Translate, DeepL 등.
+- **도구**: [ChatGPT](https://chat.openai.com), [Google Translate](https://translate.google.com), [DeepL](https://www.deepl.com).
 
 ---
 
@@ -21,7 +21,7 @@
 - **예시**:  
   - eBook 리더: 텍스트를 음성으로 읽어줌.
   - 스마트폰 음성 비서: Siri, Google Assistant.
-- **도구**: Google TTS, Elevenlabs, Amazon Polly, 네이버 클로바, 카카오 음성 API.
+- **도구**: [Google TTS](https://cloud.google.com/text-to-speech), [Amazon Polly](https://aws.amazon.com/polly), [네이버 클로바](https://clova.ai), [카카오 음성 API](https://developers.kakao.com).
 
 ---
 
@@ -30,7 +30,7 @@
 - **예시**:  
   - "A sunset over a mountain range with a river flowing through it." → 해당 이미지를 생성.
   - 그래픽 디자인: 브랜딩을 위한 비주얼 제작.
-- **도구**: DALL·E, MidJourney, Stable Diffusion.
+- **도구**: [DALL·E](https://openai.com/dall-e), [MidJourney](https://www.midjourney.com), [Stable Diffusion](https://stability.ai).
 
 ---
 
@@ -39,7 +39,7 @@
 - **예시**:  
   - 음성 메시지를 자동으로 텍스트화.
   - 비디오 자막 자동 생성.
-- **도구**: Google Speech-to-Text, 네이버 클로바 노트, Otter.ai.
+- **도구**: [Google Speech-to-Text](https://cloud.google.com/speech-to-text), [네이버 클로바 노트](https://note.clova.ai), [Otter.ai](https://otter.ai).
 
 ---
 
@@ -48,7 +48,7 @@
 - **예시**:  
   - 스캔된 문서에서 텍스트 추출(OCR).
   - 이미지 설명 생성: "A cat sitting on a sofa."
-- **도구**: Google Vision API, Tesseract OCR, Microsoft Azure Vision.
+- **도구**: [Google Vision API](https://cloud.google.com/vision), [Tesseract OCR](https://github.com/tesseract-ocr/tesseract), [Microsoft Azure Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/).
 
 ---
 
@@ -56,7 +56,7 @@
 - **설명**: 음성을 기반으로 이미지를 생성하는 기술.
 - **예시**:  
   - "Draw a happy family under the moonlight"라는 음성 명령으로 이미지 생성.
-- **도구**: Stable Diffusion과 음성 인식 API 연동.
+- **도구**: [Stable Diffusion](https://stability.ai)과 음성 인식 API 연동.
 
 ---
 
@@ -65,7 +65,7 @@
 - **예시**:  
   - 강의 영상에서 자막 자동 생성.
   - 영상 내 대화 내용 요약.
-- **도구**: YouTube 자동 자막, Whisper API.
+- **도구**: [YouTube 자동 자막](https://www.youtube.com), [Whisper API](https://github.com/openai/whisper).
 
 ---
 
@@ -74,7 +74,7 @@
 - **예시**:  
   - 메뉴판 이미지를 읽어서 음성으로 설명.
   - 사진 속 텍스트를 음성으로 전달.
-- **도구**: Seeing AI, Google Lookout.
+- **도구**: [Seeing AI](https://www.microsoft.com/en-us/ai/seeing-ai), [Google Lookout](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal).
 
 ---
 
@@ -83,7 +83,7 @@
 - **예시**:  
   - 스마트 비서: 음성 명령(Speech) → 이미지 검색(Image) → 결과 설명(Text or Speech).
   - 언어 학습 앱: 단어(텍스트)와 발음(음성), 예문(이미지) 제공.
-- **도구**: GPT-4 (Multimodal), DeepMind’s Flamingo.
+- **도구**: [GPT-4](https://openai.com/gpt-4) (Multimodal), [DeepMind’s Flamingo](https://www.deepmind.com).
 
 ---
 
@@ -97,7 +97,7 @@
 ### **학습을 위한 팁 🎓**
 - 실습 중심으로 학습: TTS, STT, Text-to-Image를 체험하는 데모 제공.
 - 한국어 데이터 활용: 한국어 기반 멀티모달 데모 시연.
-- 도구 활용: ChatGPT, DALL·E 등으로 기술을 실시간으로 시연.
+- 도구 활용: [ChatGPT](https://chat.openai.com), [DALL·E](https://openai.com/dall-e) 등으로 기술을 실시간으로 시연.
 
 ---
 
