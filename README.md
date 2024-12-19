@@ -13,7 +13,7 @@
 
 ## 🎨 Multimodality
 
-![GitHub Logo]([https://github.com/junkyuhufs/2024WorkshopForProfs/blob/main/napkin-selection_1.png]
+![GitHub Image](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/napkin-selection_1.png)
 
 
 ## Multimodal Examples 🚀
