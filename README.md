@@ -255,57 +255,7 @@ GPT의 도움으로 복잡한 문제도 해결 가능! 💡
 Python과 Gradio는 초보자도 쉽게 앱을 만들 수 있도록 도와주는 강력한 도구입니다.  
 **"코딩은 어렵지 않다!"**는 자신감을 가지세요!  
 
-```  
-### 🛠️ 2. Python 코드 작성  
-아래 코드를 복사해 실행하세요:  
-```python
-# 1. 필요한 라이브러리 가져오기
-import gradio as gr
-
-# 2. 텍스트를 받아 단어 수를 세는 함수 정의
-def count_words(text):
-    return f"입력된 텍스트는 {len(text.split())}개의 단어로 이루어져 있습니다."
-
-# 3. Gradio로 인터페이스 만들기
-app = gr.Interface(fn=count_words, inputs="text", outputs="text")
-
-# 4. 앱 실행
-app.launch()
-```
-
-### 🌟 3. 결과 확인  
-1. 앱 실행 후 브라우저에서 열리는 링크를 클릭하세요.  
-2. 텍스트를 입력하면 단어 수가 출력됩니다.  
-
----
-
-## 🤖 GPT를 활용한 코딩 팁  
-GPT를 사용해 코딩 문제를 더 쉽게 해결할 수 있습니다!  
-
-### 🔍 질문 예시  
-- "Python으로 단어 수 세는 앱 만들고 싶어요. 코드를 알려주세요."  
-- "Gradio에서 입력창과 출력창을 어떻게 연결하나요?"  
-
-GPT의 도움으로 복잡한 문제도 해결 가능! 💡
-
----
-
-## 🎯 확장 아이디어  
-이 프로젝트를 기반으로 다양한 기능을 추가할 수 있습니다:  
-- **문법 검사 앱**: 입력된 텍스트의 문법 오류를 검토.  
-- **텍스트 요약 앱**: 입력된 긴 문장을 간단히 요약.  
-
----
-
-## 📝 마무리  
-Python과 Gradio는 초보자도 쉽게 앱을 만들 수 있도록 도와주는 강력한 도구입니다.  
-**"코딩은 어렵지 않다!"**는 자신감을 가지세요!  
-
-```  
-
-
-
-### 🛠️ 실습: Python & Gradio로 앱 만들기
+## 🛠️ 실습: Python & Gradio로 앱 만들기
 
 1. **TTS (Text-to-Speech)**  
    [GitHub 링크](https://github.com/junkyuhufs/2024WorkshopForProfs/blob/main/Multimodal.ipynb)
