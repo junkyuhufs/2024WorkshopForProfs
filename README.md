@@ -3,6 +3,7 @@
 **👨‍🏫 발표자**: 이준규 (한국외국어대학교 교육대학원)
 
 [QR code](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/JunkyuLee_Workshop_12202024.png)
+[Content](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/JunkyuLee_HUFS_workshop_12202024.pdf)
 
 ---
 
