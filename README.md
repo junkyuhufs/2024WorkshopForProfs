@@ -10,7 +10,7 @@
 ## 📝 Overview of Today’s Workshop
 - **Part I**: 다양한 멀티모달 AI 도구들 소개 
 - **Part II**: ChatGPT를 활용한 Python 코딩으로 간단한 멀티모달 앱 만들기  
-  **🌐 Tools**: [Google Colab](https://colab.google/)(통합 개발 환경 및 코딩 플랫폼. IDE, Integrated Development Environment). VScode, Pycharm etc. 
+  **🌐 Tools**: [Google Colab](https://colab.google/)(통합 개발 환경 및 코딩 플랫폼. IDE, Integrated Development Environment). [VScode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows) etc. 
 
 ---
 
