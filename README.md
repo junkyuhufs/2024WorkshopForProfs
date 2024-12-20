@@ -84,7 +84,7 @@
 - **예시**:  
   - 강의 영상에서 자막 자동 생성.
   - 영상 내 대화 내용 요약.
-- **도구**: [YouTube 자동 자막](https://www.youtube.com), [Whisper API](https://github.com/openai/whisper).
+- **도구**: [YouTube 자동 자막: Language Reactor](https://www.languagereactor.com/), [Whisper API](https://github.com/openai/whisper).
 
 ---
 
