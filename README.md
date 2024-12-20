@@ -174,6 +174,9 @@ Create a mind map for the below Critiques and suggestions for future research. I
 **Step 3**: Mind mapping software 사용  
 - [Xmind](https://xmind.app/)
 
+**Check the mindmap**
++[Mindmap result](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/mindmap_result.png)
+
 ---
 
 ### 💡 실습 2: Text to Flowchart  
