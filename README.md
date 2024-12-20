@@ -161,6 +161,8 @@ GPT 응답:
 
 ### 💡 실습 1: Text to Mind Map  
 **Step 1**: Prompt와 텍스트를 GPT에 입력  
++[Sample text](https://raw.githubusercontent.com/junkyuhufs/2024WorkshopForProfs/main/sample_text.txt)
+
 **Sample Prompt**:  
 ```
 Create a mind map for the below Critiques and suggestions for future research. Include relevant subtopics, tools, and methodologies to clearly show the key points. Provide a code box with Markdown language.
