@@ -151,7 +151,11 @@ GPT 응답:
 - [Pika](https://pika.art/login)  
 
 #### 🎬 [4] Text to Video  
+- [싱크로유](https://youtube.com/watch?v=A_tw9Vngj3k&si=ZJfIBDpP9curjGGs)
+
 - [Sora](https://openai.com/sora)
+- [Veo2](https://deepmind.google/technologies/veo/veo-2/)
+- [Sora vs. Veo2](https://x.com/RubenHssd/status/1869023374074167716?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1869023374074167716%7Ctwgr%5E7d2a4a2aaa22b1100934efddabe65c0a3f039157%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.aitimes.com%2Fnews%2FarticleView.html%3Fidxno%3D166379).
 
 ---
 
