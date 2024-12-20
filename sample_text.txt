@@ -1,0 +1,63 @@
+Critiques and suggestions for future research
+ Ameta-analytic data set not only enables the researcher to critique the domain
+ in question; it is his/her duty to do so. We therefore conclude our discussion
+ with a list of limitations observed in our sample. In order to move the domain
+ toward areas that merit attention as well as improved methodological practice,
+ each critique is accompanied by suggestions for future research.
+ Critique 1: The validity of PI research both in individual studies and in
+ the aggregate is threatened by the use of very small samples and corres
+pondingly low statistical power. A post hoc power analysis based on the
+ results of this study shows observed power within and between groups to
+ be just 0.66 and 0.55, respectively. Underpowered studies not only limit our
+ ability to detect true effects, they also lead to an uneven depiction of popu
+lation effects (via publication bias) when summarized at the secondary level.
+ Fortunately, there is a relatively (if also deceptively) simple two-part solu
+tion to this problem. First, PI research, like much of SLA, needs larger samples.
+ In some cases, owing to practical constraints of recruiting participants, this will
+ require less subgroup comparisons. However, more reliable results are cer
+tainly preferable to a greater number of less reliable ones. And secondly, PI
+ researchers ought to move away from the dichotomous thinking embodied by
+ null hypothesis significance testing, focusing instead on point estimates and
+ their practical significance as expressed by effect sizes (Norris and Ortega 2006;
+ Plonsky 2013). Considering only 17 studies (20 per cent of the sample) re
+ported effect sizes, and almost none provided a useful interpretation of those
+ effects, change in this direction may be slow.
+ it only underpowered, it lacks diver
+sity, particularly in terms of different ages, first languages, and target
+ languages. Whereas the previous critique poses a threat to internal validity,
+ this problem puts into question the external validity or generalizability of PI
+ research. Only 4 of 86 primary reports in our sample involved participants less
+ than 13 years old. Considering many pronunciation errors are L1 and L2 spe
+cific (e.g. Derwing and Munro 2013), it is perhaps even more concerning that
+ English was either the participants’ first language or the target language in 83
+ of the 86 studies.
+ The way forward here for PI researchers is to consider recruiting younger
+ participants as well as learners other than those whose L1 or L2 is English.
+ Doing so may require reaching out to and making connections with teachers
+ and researchers outside of our home institutions.
+ Critique 3: Three features of PI designs are in need of improvement. First,
+ only 14 per cent of the sample examined the longevity of effects by means of a
+ delayed posttest. Interestingly, studies in this sample that included delayed
+ posttests in their design produced larger effects, a pattern also observed in
+ Plonsky (2011, 2013) and Plonsky and Gass (2011). In order to determine
+ the practical significance of PI in ‘real-world’ settings, where learning matters
+ beyond a brief intervention, delayed posttests must be incorporated into future
+ studies. This practice would also contribute to theoretical discussions related to
+ the durability of instructional treatments. Secondly, pre–post designs far out
+number controlled experiments. This trend is likely due in part to the use of
+ intact samples where it may be inappropriate or even unethical to withhold
+ treatment for the sake of experimental control. Although pre–post designs can
+ help guide L2 practitioners’ expectations, absolute effects can only be mea
+sured through more rigorously controlled designs. Third, PI research relies too
+ heavily—primarily even—on controlled outcome measures, thus again limit
+ing the external validity of study results. There is clearly a need for greater
+ variety of outcome measures in PI research.
+ Critique 4: Two substantive issues observed in this body of research are also
+ worth noting. First is a lack of attention to a number of phonetic and phono
+logical features such as articulation, elision, linking, and stress. And secondly,
+ the interactions between different treatments and learner backgrounds (i.e.
+ aptitude-treatment interaction research, or ATI) present a potential source of
+ findings in PI with relevance for L2 theory and practice. To date, however, a
+ very small number of studies have examined such interactions (e.g. Elliot
+ 1997) unlike the rapidly growing body of ATI research in the realm of gram
+mar instruction (e.g. Li 2013).
