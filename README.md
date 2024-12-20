@@ -196,6 +196,7 @@ Create a mind map for the below Critiques and suggestions for future research. I
 
 ### Sample Website
 - HUFS GSE EE 학생들의 작품: [GitHub Example](https://github.com/yura-eng/G4)
+- [교대원생 설명](https://drive.google.com/file/d/1nZKVpAoDPhSFE1XZPsv62U22maSGh6i-/view?usp=sharing)
 
 ---
 
